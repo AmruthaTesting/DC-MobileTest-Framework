@@ -1,6 +1,8 @@
 # =============================================
 # Feature: Login
 # App: Edward Jones Go Mobile (CRM)
+# Device : iPhone 15 pro/iOS 18.5
+# Jira : BMX Thundercats 26.1.3
 # =============================================
 
 @Login @Regression
